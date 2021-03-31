@@ -1,0 +1,10 @@
+{
+  "getUnitsByCampus": "[azViews].[dbo].[lookup_d3_UnitLookupTable]",
+  "getVisitInfoByCampus&Unit": "[azViews].[dbo].[lookup_d3_VisitInfo]",
+  "getVisitInfoByCampus": "[azViews].[dbo].[lookup_d3_VisitInfo_byCampus]",
+  "getVolumeOfUnitsByDay": "[azViews].[NYH\\gaa9034].[lookup_d3_VolumeUnitHourly]",
+  "getVisitInfoFromEpsi": "[Andes].[dbo].[extract_VisitInfoFromEpsi]",
+  "insertPatientsFromAmalga": "[Andes].[dbo].[insert_PatientsFromAmalga]",
+  "getDiagnosesByMRN": "[Andes].[dbo].[extract_ICD9DiagnosesbyMRN]",
+  "getDxPatientCohort": "[Andes].[dbo].[extract_PatientCohortByICD9DXCode]"
+}

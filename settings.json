@@ -1,0 +1,20 @@
+{
+  "sqldatamodel":{
+    "amalga":{
+      "server": "10.171.22.215",
+      "userName": "usr-gaa9034",
+      "options":{
+        "requestTimeout": 3600000,
+        "rowCollectionOnDone": true
+      }
+    },
+    "bis": {
+      "server": "10.171.24.152",
+      "userName": "usr-gaa9034",
+      "options": {
+        "requestTimeout": 3600000,
+        "rowCollectionOnDone": true
+      }
+    }
+  }
+}
